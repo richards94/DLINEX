@@ -1,7 +1,7 @@
 # DLINEX Loss Fuction
 This repository contains the implementation of DLINEX Loss Fuction in image classification task.
 
-# Usage
+## Usage
 All experiments are implemented on a Linux workstation with an RTX 3090 and Intel(R) Xeon(R) CPU E5-2650.
 - python 3.6+
 - pytorch 1.7.0+
