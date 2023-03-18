@@ -1,5 +1,5 @@
 # DLINEX Loss Fuction
-This repository contains the implementation of DLINEX Loss Fuction in image classification and semantic segmentation tasks.
+This repository contains the implementation of DLINEX Loss Fuction in image classification task.
 
 # Usage
 All experiments are implemented on a Linux workstation with an RTX 3090 and Intel(R) Xeon(R) CPU E5-2650.
